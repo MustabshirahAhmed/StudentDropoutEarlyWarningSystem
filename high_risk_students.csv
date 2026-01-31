@@ -1,0 +1,110 @@
+student_id,risk_score,risk_label,predicted_dropout,risk_reason,advisor_action
+2,0.9254598364395957,High,1,Rarely uses learning resources | Not checking course announcements | High number of absences,Guide student to use online materials regularly. | Ask student to check announcements daily. | Discuss attendance issues and provide support.
+3,0.7692552016176143,High,1,High number of absences,Discuss attendance issues and provide support.
+6,0.9389545943132204,High,1,Not checking course announcements | High number of absences,Ask student to check announcements daily. | Discuss attendance issues and provide support.
+12,0.9542970244614095,High,1,Rarely uses learning resources | Not checking course announcements | High number of absences,Guide student to use online materials regularly. | Ask student to check announcements daily. | Discuss attendance issues and provide support.
+13,0.9628147197517746,High,1,High number of absences,Discuss attendance issues and provide support.
+23,0.9559228334445478,High,1,Very low class participation | Rarely uses learning resources | Not checking course announcements | High number of absences,Encourage active participation in class. | Guide student to use online materials regularly. | Ask student to check announcements daily. | Discuss attendance issues and provide support.
+24,0.7630240875513413,High,1,Very low class participation | Rarely uses learning resources | Not checking course announcements | High number of absences,Encourage active participation in class. | Guide student to use online materials regularly. | Ask student to check announcements daily. | Discuss attendance issues and provide support.
+27,0.9488037237461433,High,1,High number of absences,Discuss attendance issues and provide support.
+32,0.6986289165092895,High,1,Very low class participation | High number of absences,Encourage active participation in class. | Discuss attendance issues and provide support.
+33,0.9277368801445527,High,1,High number of absences,Discuss attendance issues and provide support.
+34,0.9097359157991841,High,1,High number of absences,Discuss attendance issues and provide support.
+35,0.8625330949568003,High,1,High number of absences,Discuss attendance issues and provide support.
+36,0.8315303310589574,High,1,Rarely uses learning resources | Not checking course announcements | High number of absences,Guide student to use online materials regularly. | Ask student to check announcements daily. | Discuss attendance issues and provide support.
+38,0.9302530152028953,High,1,Very low class participation | Rarely uses learning resources | Not checking course announcements | High number of absences,Encourage active participation in class. | Guide student to use online materials regularly. | Ask student to check announcements daily. | Discuss attendance issues and provide support.
+40,0.8205859773386399,High,1,Not checking course announcements | High number of absences,Ask student to check announcements daily. | Discuss attendance issues and provide support.
+42,0.7821135559468828,High,1,High number of absences,Discuss attendance issues and provide support.
+45,0.8751340105392722,High,1,High number of absences,Discuss attendance issues and provide support.
+46,0.9650164613734541,High,1,Not checking course announcements | High number of absences,Ask student to check announcements daily. | Discuss attendance issues and provide support.
+50,0.6412085716663323,High,1,High number of absences,Discuss attendance issues and provide support.
+54,0.7785149107147047,High,1,High number of absences,Discuss attendance issues and provide support.
+55,0.8361567704546832,High,1,High number of absences,Discuss attendance issues and provide support.
+56,0.9165542566449147,High,1,Rarely uses learning resources | Not checking course announcements | High number of absences,Guide student to use online materials regularly. | Ask student to check announcements daily. | Discuss attendance issues and provide support.
+57,0.9191348802525898,High,1,Rarely uses learning resources | High number of absences,Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+60,0.6882292938441086,High,1,High number of absences,Discuss attendance issues and provide support.
+64,0.960016365700165,High,1,Very low class participation | Rarely uses learning resources | High number of absences,Encourage active participation in class. | Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+65,0.8762763936547427,High,1,Rarely uses learning resources | High number of absences,Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+66,0.6668187453042891,High,1,High number of absences,Discuss attendance issues and provide support.
+70,0.6217512742005362,High,1,High number of absences,Discuss attendance issues and provide support.
+72,0.7729652549151065,High,1,Rarely uses learning resources | Not checking course announcements,Guide student to use online materials regularly. | Ask student to check announcements daily.
+78,0.973033785781637,High,1,Rarely uses learning resources | High number of absences,Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+81,0.9164891588717076,High,1,Not checking course announcements | High number of absences,Ask student to check announcements daily. | Discuss attendance issues and provide support.
+82,0.7480506143487574,High,1,Rarely uses learning resources | Not checking course announcements | High number of absences,Guide student to use online materials regularly. | Ask student to check announcements daily. | Discuss attendance issues and provide support.
+83,0.8799771565607059,High,1,Rarely uses learning resources | High number of absences,Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+85,0.9733453202551359,High,1,Very low class participation | Rarely uses learning resources | Not checking course announcements | High number of absences,Encourage active participation in class. | Guide student to use online materials regularly. | Ask student to check announcements daily. | Discuss attendance issues and provide support.
+89,0.7676259715828124,High,1,Not checking course announcements | High number of absences,Ask student to check announcements daily. | Discuss attendance issues and provide support.
+90,0.7332755812365737,High,1,Very low class participation | Rarely uses learning resources | High number of absences,Encourage active participation in class. | Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+102,0.9443321702128596,High,1,Very low class participation | Rarely uses learning resources | Not checking course announcements | High number of absences,Encourage active participation in class. | Guide student to use online materials regularly. | Ask student to check announcements daily. | Discuss attendance issues and provide support.
+103,0.9625987091535972,High,1,Very low class participation | Rarely uses learning resources | High number of absences,Encourage active participation in class. | Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+104,0.8814890820521821,High,1,Very low class participation | Not checking course announcements | High number of absences,Encourage active participation in class. | Ask student to check announcements daily. | Discuss attendance issues and provide support.
+105,0.6677129006428536,High,1,Very low class participation | Rarely uses learning resources | High number of absences,Encourage active participation in class. | Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+108,0.9555373315251284,High,1,High number of absences,Discuss attendance issues and provide support.
+112,0.9487891998972319,High,1,Very low class participation | Rarely uses learning resources | Not checking course announcements | High number of absences,Encourage active participation in class. | Guide student to use online materials regularly. | Ask student to check announcements daily. | Discuss attendance issues and provide support.
+113,0.8303816483907964,High,1,Not checking course announcements | High number of absences,Ask student to check announcements daily. | Discuss attendance issues and provide support.
+114,0.9444645548620246,High,1,Rarely uses learning resources | Not checking course announcements | High number of absences,Guide student to use online materials regularly. | Ask student to check announcements daily. | Discuss attendance issues and provide support.
+115,0.7265113162253538,High,1,Very low class participation | Rarely uses learning resources | High number of absences,Encourage active participation in class. | Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+121,0.9506360431524029,High,1,Very low class participation | Rarely uses learning resources | High number of absences,Encourage active participation in class. | Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+125,0.8845184264344276,High,1,Not checking course announcements | High number of absences,Ask student to check announcements daily. | Discuss attendance issues and provide support.
+127,0.7236604505089796,High,1,High number of absences,Discuss attendance issues and provide support.
+130,0.892730990583571,High,1,Rarely uses learning resources | High number of absences,Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+132,0.9682843905082676,High,1,Very low class participation | Rarely uses learning resources | High number of absences,Encourage active participation in class. | Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+140,0.8559951830180274,High,1,High number of absences,Discuss attendance issues and provide support.
+141,0.6703221555625563,High,1,High number of absences,Discuss attendance issues and provide support.
+144,0.9743956558406444,High,1,High number of absences,Discuss attendance issues and provide support.
+172,0.6398043544071987,High,1,High number of absences,Discuss attendance issues and provide support.
+175,0.9541167226336338,High,1,Rarely uses learning resources | High number of absences,Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+181,0.649453051000635,High,1,High number of absences,Discuss attendance issues and provide support.
+184,0.9348047618893277,High,1,High number of absences,Discuss attendance issues and provide support.
+191,0.7414552431937704,High,1,High number of absences,Discuss attendance issues and provide support.
+198,0.7880895347721594,High,1,High number of absences,Discuss attendance issues and provide support.
+204,0.9510833527538177,High,1,High number of absences,Discuss attendance issues and provide support.
+213,0.8327609927491805,High,1,High number of absences,Discuss attendance issues and provide support.
+214,0.9245770897771777,High,1,Not checking course announcements | High number of absences,Ask student to check announcements daily. | Discuss attendance issues and provide support.
+215,0.779485531874165,High,1,High number of absences,Discuss attendance issues and provide support.
+227,0.6020718926090068,High,1,Rarely uses learning resources | Not checking course announcements,Guide student to use online materials regularly. | Ask student to check announcements daily.
+229,0.9596150611766653,High,1,High number of absences,Discuss attendance issues and provide support.
+230,0.7905059174294612,High,1,High number of absences,Discuss attendance issues and provide support.
+231,0.8575376886493112,High,1,Rarely uses learning resources | High number of absences,Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+235,0.9135820819579205,High,1,Rarely uses learning resources | High number of absences,Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+236,0.81827259331119,High,1,High number of absences,Discuss attendance issues and provide support.
+242,0.8807967320408072,High,1,High number of absences,Discuss attendance issues and provide support.
+243,0.7317469400379168,High,1,High number of absences,Discuss attendance issues and provide support.
+253,0.7755580037058604,High,1,High number of absences,Discuss attendance issues and provide support.
+260,0.9357156312132334,High,1,High number of absences,Discuss attendance issues and provide support.
+268,0.6038819036927318,High,1,Rarely uses learning resources | High number of absences,Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+291,0.6318470766728536,High,1,High number of absences,Discuss attendance issues and provide support.
+298,0.6495001716598241,High,1,High number of absences,Discuss attendance issues and provide support.
+300,0.8789660260824932,High,1,High number of absences,Discuss attendance issues and provide support.
+301,0.8296353874783647,High,1,High number of absences,Discuss attendance issues and provide support.
+322,0.963820000282014,High,1,High number of absences,Discuss attendance issues and provide support.
+323,0.9412855562569755,High,1,High number of absences,Discuss attendance issues and provide support.
+326,0.963820000282014,High,1,High number of absences,Discuss attendance issues and provide support.
+327,0.9412855562569755,High,1,High number of absences,Discuss attendance issues and provide support.
+331,0.8317503450191351,High,1,Rarely uses learning resources | High number of absences,Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+334,0.961873959743972,High,1,Rarely uses learning resources | High number of absences,Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+335,0.9590994495857227,High,1,Rarely uses learning resources | High number of absences,Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+348,0.9398886643163171,High,1,Rarely uses learning resources | High number of absences,Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+349,0.9499136318526292,High,1,Rarely uses learning resources | High number of absences,Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+350,0.9558921862347837,High,1,High number of absences,Discuss attendance issues and provide support.
+351,0.9561810060430026,High,1,Rarely uses learning resources | High number of absences,Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+372,0.7610351949434754,High,1,High number of absences,Discuss attendance issues and provide support.
+373,0.8720015459875772,High,1,Rarely uses learning resources | High number of absences,Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+374,0.8168310776089313,High,1,High number of absences,Discuss attendance issues and provide support.
+375,0.8724899293644462,High,1,Rarely uses learning resources | High number of absences,Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+380,0.7144220634712503,High,1,High number of absences,Discuss attendance issues and provide support.
+381,0.7405851604759105,High,1,High number of absences,Discuss attendance issues and provide support.
+388,0.9500503090427534,High,1,Very low class participation | High number of absences,Encourage active participation in class. | Discuss attendance issues and provide support.
+389,0.9778731423749624,High,1,Rarely uses learning resources | Not checking course announcements | High number of absences,Guide student to use online materials regularly. | Ask student to check announcements daily. | Discuss attendance issues and provide support.
+406,0.9675993383284177,High,1,Very low class participation | Rarely uses learning resources | High number of absences,Encourage active participation in class. | Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+407,0.9615931777870692,High,1,Very low class participation | Rarely uses learning resources | High number of absences,Encourage active participation in class. | Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+414,0.890837075862509,High,1,Rarely uses learning resources | Not checking course announcements | High number of absences,Guide student to use online materials regularly. | Ask student to check announcements daily. | Discuss attendance issues and provide support.
+415,0.8902125036637052,High,1,Rarely uses learning resources | High number of absences,Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+428,0.9957040900399897,High,1,Rarely uses learning resources | Not checking course announcements | High number of absences,Guide student to use online materials regularly. | Ask student to check announcements daily. | Discuss attendance issues and provide support.
+429,0.9945834568151963,High,1,Rarely uses learning resources | High number of absences,Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+468,0.9711653709144581,High,1,Rarely uses learning resources | High number of absences,Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+469,0.980293148519073,High,1,Rarely uses learning resources | High number of absences,Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+474,0.9947074456040634,High,1,Very low class participation | Rarely uses learning resources | Not checking course announcements | High number of absences,Encourage active participation in class. | Guide student to use online materials regularly. | Ask student to check announcements daily. | Discuss attendance issues and provide support.
+475,0.9955182463717295,High,1,Rarely uses learning resources | High number of absences,Guide student to use online materials regularly. | Discuss attendance issues and provide support.
+478,0.8478682479495138,High,1,High number of absences,Discuss attendance issues and provide support.
+479,0.8065886585598797,High,1,High number of absences,Discuss attendance issues and provide support.
