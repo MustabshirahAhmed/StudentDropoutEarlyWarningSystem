@@ -1,11 +1,11 @@
 import streamlit as st
 import pandas as pd
 import joblib
-import sklearn
-from sklearn.pipeline import Pipeline
-from sklearn.compose import ColumnTransformer
-from sklearn.preprocessing import OneHotEncoder
-from sklearn.linear_model import LogisticRegression
+# import sklearn
+# from sklearn.pipeline import Pipeline
+# from sklearn.compose import ColumnTransformer
+# from sklearn.preprocessing import OneHotEncoder
+# from sklearn.linear_model import LogisticRegression
 
 
 st.set_page_config(page_title="Student Dropout Early Warning System", layout="wide")
