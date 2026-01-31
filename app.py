@@ -11,7 +11,7 @@ import joblib
 st.set_page_config(page_title="Student Dropout Early Warning System", layout="wide")
 
 # Load model and feature importance
-model = joblib.load("dropout_pipeline(1).pkl")
+model = joblib.load("dropout_pipeline.pkl")
 feature_importance = pd.read_csv("feature_importance.csv")
 
 st.title("🎓 Student Dropout Early Warning System")
